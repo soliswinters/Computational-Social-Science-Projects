@@ -1,0 +1,6 @@
+# Commands run so far
+git clone https://github.com/soliswinters/Computational-Social-Science-Projects.git
+mkdir "Project 1"
+vim text.txt
+
+
